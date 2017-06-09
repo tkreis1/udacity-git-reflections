@@ -14,6 +14,9 @@ easier to review and sort.
 How do the diagrams help you visualize the branch structure?
 Makes it easier to see relationships and histories.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: simplifies merging process, makes you more confident about adding new branches.
+Cons: Still have to manually address conflicts.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Result: includes changes that are not in original from both branches. Represented in diagram this way to show
 that both branches' commit histories are included.
