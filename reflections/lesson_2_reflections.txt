@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 No commits made, but Git repository structure created. Needed to setup a Git repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is between working directory and repository. Place items from working directory into staging area so they can be added to repository. Valuable so you can be selective about what is added in a commit.
