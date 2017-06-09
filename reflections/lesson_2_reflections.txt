@@ -3,3 +3,10 @@ No commits made, but Git repository structure created. Needed to setup a Git rep
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is between working directory and repository. Place items from working directory into staging area so they can be added to repository. Valuable so you can be selective about what is added in a commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Can check to see which changes have been made prior to committing.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Good for tracking significant edits to program. Separates them logically so
+easier to review and sort.
