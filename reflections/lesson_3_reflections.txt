@@ -16,3 +16,6 @@ Branches - Occur within one repository. Good for when making experimental change
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You can work with the latest info offline.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Collaborating without Git or GitHub would likely be more difficult as you would have to send/share large groups of files via email or service such as Dropbox. It would be more difficult to merge work and could be more challenging to make comparisons between versions.
