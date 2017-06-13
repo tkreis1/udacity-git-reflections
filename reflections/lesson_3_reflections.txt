@@ -13,3 +13,6 @@ changes.
 Clones - Copy one repository to another locally or from GitHub to your computer.
 
 Branches - Occur within one repository. Good for when making experimental changes.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You can work with the latest info offline.
